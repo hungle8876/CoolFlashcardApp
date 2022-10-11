@@ -1,18 +1,17 @@
 ## Lab 3
 
 ### App Description
-This is my Flash Card App
+This is my Flash Card App with the following features: 
+- Allow user to create a card and still see their created card when the app is relaunched.
+- User should be able to create multiple cards and browse through their deck of created cards.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://media.giphy.com/media/jGi4y44M0vKPYI7JIm/giphy.gif" width=200><br>
 
 ## Required
-- [ ] User can create a card and still see their created card when the app is relaunched.
-- [ ] User can create muliple cards and browse through all created cards
+- [x] User can create a card and still see their created card when the app is relaunched.
+- [x] User can create muliple cards and browse through all created cards
 
 ## Optional
 - [ ] User can delete a card and no longer see it in their deck anymore
